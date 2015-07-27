@@ -1,4 +1,4 @@
-# PS-Preference-Filler---Java
+# PS Preference Filler (Java)
 (April 2013)
 
 **Update**
